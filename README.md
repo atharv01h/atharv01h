@@ -31,11 +31,11 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://www.progrealm.tech/)
+- 📝 I regularly write articles on [Progrealm](https://www.progrealm.tech/)
 
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 Feel free to reach me out **atharv.hatwar@progrealm.tech**
 
 - 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/).
 <!--Intro end-->
