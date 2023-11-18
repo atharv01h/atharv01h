@@ -37,7 +37,7 @@
 
 - 📫 Feel free to reach me out **atharv.hatwar@progrealm.tech**
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/).
+- 🏠 Also We've a tech community called [Discord](https://discord.com/invite/).
 <!--Intro end-->
 
 
