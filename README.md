@@ -8,7 +8,7 @@
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
-<picture> <img align="right" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-animation-download-in-lottie-json-gif-static-svg-file-formats--web-developer-programming-code-online-meeting-freelancer-website-development-animations-3645911.mp4" width = 400px></picture>
+<picture> <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241123T125514Z&X-Amz-Expires=300&X-Amz-Signature=1ab681a9be8ac7c4c06d4349de32aee72fba06b67352e029870a9b64cd2e7ff2&X-Amz-SignedHeaders=host" width = 400px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
