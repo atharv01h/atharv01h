@@ -15,12 +15,10 @@
 </p>
 
 - 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning software architecture
+- 🌱 I’m currently learning AI & Node js
 - 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about C#
+- 💬 Ask me about Node js
 - 📫 How to reach me: Contact part
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never thought I would become a .net programmer!
 
 <br>
 
@@ -30,7 +28,7 @@
 
 - **Languages**:
     
-     <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
+     <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="40" height="40" />
   
 - **Front-End Development**:
 
@@ -97,5 +95,5 @@
 
 
 ------
-[Mahdiiye](https://github.com/Mahdiiye)
-Last Edited on: 19/01/2023
+[Atharv](https://github.com/atharv01h/)
+
