@@ -78,9 +78,9 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
         <a style="margin-left: 10px;" target="_blank" href="">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="https://github.com/atharv01h/atharv01h">
+           <a style="margin-left: 10px;" target="_blank" href="mailto:atharvhatwar02@gmail.com">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-		<a style="margin-left: 10px;" target="_blank" href="mailto:atharvhatwar02@gmail.com">
+		<a style="margin-left: 10px;" target="_blank" href="">
 		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 		<a style="margin-left: 5px;" target="_blank" href="">
 	<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
