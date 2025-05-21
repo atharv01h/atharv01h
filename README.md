@@ -85,7 +85,7 @@
 		<a style="margin-left: 5px;" target="_blank" href="">
 	<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
   
-      </div>
+      
 
 </p>
 
