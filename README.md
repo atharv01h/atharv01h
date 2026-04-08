@@ -9,7 +9,7 @@
 <p>
   <img src="https://img.shields.io/badge/Open%20to%20Work-%2300D9FF?style=for-the-badge&logo=briefcase&logoColor=white" />
   <img src="https://img.shields.io/badge/Based%20in-Pune%2C%20India-orange?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/2026%20Graduate-CS%20Engineering-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/2025%20Graduate-CS%20Engineering-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </p>
 
 </div>
