@@ -8,14 +8,14 @@
 <div align="center">
 
 <!-- TYPING ANIMATION — demolab is stable & reliable -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=🚀+2026+CSE+Graduate+%7C+Ready+to+Ship+Real+Code;☕+Java+Backend+%2B+Full+Stack+Web+Development;🌱+Currently+mastering+Spring+Boot+%26+System+Design;💡+Clean+Code+%7C+Good+Architecture+%7C+Always+Learning;🎯+Open+to+Fresher+SDE+Roles+across+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=🚀+2025+CSE+Graduate+%7C+Ready+to+Ship+Real+Code;☕+Java+Backend+%2B+Full+Stack+Web+Development;🌱+Currently+mastering+Spring+Boot+%26+System+Design;💡+Clean+Code+%7C+Good+Architecture+%7C+Always+Learning;🎯+Open+to+Fresher+SDE+Roles+across+India)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- STATUS BADGES — shields.io only, no custom label tricks -->
 ![Open to Work](https://img.shields.io/badge/Open%20To%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Pune India](https://img.shields.io/badge/Pune%2C%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)
-![2026 Graduate](https://img.shields.io/badge/2026%20Graduate-7928CA?style=for-the-badge&logo=mortarboard&logoColor=white)
+![2025 Graduate](https://img.shields.io/badge/2025%20Graduate-7928CA?style=for-the-badge&logo=mortarboard&logoColor=white)
 
 <br/>
 
@@ -46,7 +46,7 @@ public class AtharvHatwar extends Developer {
     String   name        =  "Atharv Hatwar";
     String   university  =  "DY Patil University, Pune";
     String   degree      =  "B.Tech — Computer Science Engineering";
-    String   batch       =  "2026";
+    String   batch       =  "2025";
     String   role        =  "Full Stack Developer";
     boolean  available   =  true;   // ✅ Actively looking!
 
