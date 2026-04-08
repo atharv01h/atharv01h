@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=750&height=45&lines=🧠+I+don't+just+write+code+—+I+architect+solutions;☕+Java+is+not+a+language%2C+it's+a+lifestyle;🌐+Frontend+charm+%2B+Backend+muscle+%3D+Full+Stack;🚀+2026+Graduate+%7C+Fresher+SDE+%7C+Ready+to+ship;⚡+git+commit+-m+"building+the+future+one+push+at+a+time")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=750&height=45&lines=🧠+I+don't+just+write+code+—+I+architect+solutions;☕+Java+is+not+a+language%2C+it's+a+lifestyle;🌐+Frontend+charm+%2B+Backend+muscle+%3D+Full+Stack;🚀+2025+Graduate+%7C+Fresher+SDE+%7C+Ready+to+ship;⚡+git+commit+-m+"building+the+future+one+push+at+a+time")](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/-PUNE%2C%20INDIA-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/-2026%20GRADUATE-7928CA?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/-2025%20GRADUATE-7928CA?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/-FULL%20STACK%20DEV-39D353?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=0D1117" />
 
@@ -57,7 +57,7 @@
 ║  name       → "Atharv Hatwar"            ║
 ║  role       → "Full Stack Developer"     ║
 ║  university → "DY Patil Uni, Pune"       ║
-║  degree     → "B.Tech CSE — 2026"        ║
+║  degree     → "B.Tech CSE — 2025"        ║
 ╠══════════════════════════════════════════╣
 ║  focus[]    → { Java, Web Dev, MySQL }   ║
 ║  mindset    → "Build. Break. Learn. 🔁"  ║
@@ -148,7 +148,7 @@ $ cat learning_roadmap.sh
 
 ```sh
 #!/bin/bash
-# Atharv's 2026 grind — updated live 🔥
+# Atharv's 2025 grind — updated live 🔥
 
 SKILLS_QUEUE=(
   "Spring Boot       → REST APIs & microservice fundamentals"
