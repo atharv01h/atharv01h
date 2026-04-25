@@ -20,7 +20,7 @@
 <br/>
 
 <!-- SOCIAL LINKS — all verified URLs -->
-<a href="https://linkedin.com/in/atharv-hatwar-568047194" target="_blank">
+<a href="https://linkedin.com/in/atharv-hatwar" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
