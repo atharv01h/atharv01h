@@ -1,100 +1,87 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Hi,+I'm+Atharv+Hatwar;Welcome+to+my+Engineering+Workspace;I+Build+Scalable+Backend+Systems" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <b>Full Stack Engineer</b> • <b>Java Architect</b> • <b>System Design Enthusiast</b><br>
-  <i>Pune, India</i>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/atharv-hatwar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:atharvhatwar02@gmail.com"><img src="https://img.shields.io/badge/Email-Send_Ping-EA4335?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/atharv01h"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
-</p>
-
----
-
-## 🧠 Brain Architecture (Interactive Mindmap)
-> *Pro Tip: This is a native Mermaid.js diagram! You can click, pan, and zoom to explore my tech stack.*
-
-```mermaid
-mindmap
-  root((Atharv Hatwar))
-    Backend Core
-      Java
-      Spring Boot
-      Python
-      REST APIs
-    System Design
-      Microservices
-      Scalability
-      DSA
-    Databases
-      MySQL
-      Hibernate ORM
-    DevOps
-      Docker
-      Linux
-      Git & GitHub
-    Frontend
-      JavaScript
-      HTML5 & CSS3
-```
-
-## 🛤️ Evolution of a Developer (GitGraph)
-> *My coding journey, mapped out as a literal Git branch history.*
-
-```mermaid
-gitGraph
-    commit id: "init" tag: "Hello World"
-    commit id: "learn_core_programming"
-    branch frontend
-    checkout frontend
-    commit id: "html_css_js"
-    commit id: "responsive_ui"
-    checkout main
-    merge frontend
-    branch backend
-    checkout backend
-    commit id: "java_mastery"
-    commit id: "python_fundamentals"
-    commit id: "spring_boot_magic"
-    branch database
-    checkout database
-    commit id: "mysql_architecture"
-    commit id: "hibernate_orm"
-    checkout backend
-    merge database
-    checkout main
-    merge backend
-    commit id: "system_design_scaling" type: HIGHLIGHT
-    commit id: "ready_to_ship" tag: "Available for Hire"
-```
-
-## ⏱️ Time Allocation Matrix
-> *Where my processing power goes on a daily basis.*
-
-```mermaid
-pie title Daily Processing Allocation
-    "Writing Backend Logic" : 45
-    "Architecting Databases" : 20
-    "Debugging at Midnight ☕" : 15
-    "Studying System Design" : 10
-    "Designing Frontend UIs" : 10
-```
-
----
-
-## 📊 Live Telemetry
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharv01h&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" height="170" />
-  <img src="https://streak-stats.demolab.com?user=atharv01h&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" height="170" />
+  
+  <img src="https://media.tenor.com/1-qI0fT7B7IAAAAj/wizard-pixel-art.gif" width="150" alt="8-bit Wizard" />
+  
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=20&pause=2000&color=FFD700&center=true&vCenter=true&width=800&height=40&lines=GREETINGS,+TRAVELER!;HELLO,+I'M+ATHARV!;LVL+99+JAVA+ARCHITECT" alt="Typing SVG" />
+  </h1>
+  <p style="font-family: monospace; font-size: 16px; color: #aaaaaa;">
+    <i>"Architecting high-performance backend spells and robust data structures."</i>
+  </p>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv01h&bg_color=transparent&color=c9d1d9&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="90%" />
+  <table style="border-collapse: collapse; border: 4px solid #333; background-color: #0a0a0a; color: #00ff00;">
+    <tr>
+      <td width="310" valign="top" style="border: 2px dashed #444; padding: 20px;">
+        <h3 align="center" style="color: #FFD700; font-family: monospace;">[ CHARACTER STATS ]</h3>
+        <p style="font-family: monospace; margin: 5px 0;"><b>HP:</b> 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 9999/9999</p>
+        <p style="font-family: monospace; margin: 5px 0;"><b>MP:</b> 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛ 8500/9999</p>
+        <hr style="border: 1px dashed #444; margin: 15px 0;">
+        <p style="font-family: monospace; margin: 5px 0;"><b>CLASS:</b> Backend Sorcerer</p>
+        <p style="font-family: monospace; margin: 5px 0;"><b>GUILD:</b> Full Stack Engineers</p>
+        <p style="font-family: monospace; margin: 5px 0;"><b>BASE:</b> Pune, India</p>
+      </td>
+      <td width="310" valign="top" style="border: 2px dashed #444; padding: 20px;">
+        <h3 align="center" style="color: #FFD700; font-family: monospace;">[ ATTRIBUTES ]</h3>
+        <p style="font-family: monospace; margin: 5px 0;"><b>STR (Backend)</b> : ★★★★★ <sub><i>(Java, Python)</i></sub></p>
+        <p style="font-family: monospace; margin: 5px 0;"><b>INT (Systems)</b> : ★★★★★ <sub><i>(Microservices)</i></sub></p>
+        <p style="font-family: monospace; margin: 5px 0;"><b>DEX (DevOps)</b>  : ★★★★☆ <sub><i>(Docker, Linux)</i></sub></p>
+        <p style="font-family: monospace; margin: 5px 0;"><b>CON (Databases)</b> : ★★★★★ <sub><i>(MySQL, ORM)</i></sub></p>
+        <p style="font-family: monospace; margin: 5px 0;"><b>CHR (Frontend)</b> : ★★★☆☆ <sub><i>(JS, HTML/CSS)</i></sub></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&pause=1000&color=FFD700&center=true&vCenter=true&width=400&height=30&lines=[+OPEN+INVENTORY+]" alt="Inventory" />
+</h2>
+
+<div align="center">
+  <p style="font-family: monospace; font-size: 12px; color: #888;">Equipped Items & Artifacts</p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,hibernate,docker,linux,git&theme=dark&perline=8" alt="Tech Stack" />
+</div>
+
+<br><br>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&pause=1000&color=FFD700&center=true&vCenter=true&width=400&height=30&lines=[+QUEST+LOG+]" alt="Quest Log" />
+</h2>
+
+<div align="center">
+  <table style="border: 4px solid #333; background-color: #0a0a0a; color: #00ff00; width: 620px;">
+    <tr>
+      <td style="padding: 20px; font-family: monospace; font-size: 14px; line-height: 1.6;">
+        ▶️ <b>CURRENT MAIN QUEST:</b><br>
+        &nbsp;&nbsp;&nbsp;Architecting high-performance, fault-tolerant backend systems.<br><br>
+        ▶️ <b>SIDE QUEST:</b><br>
+        &nbsp;&nbsp;&nbsp;Mastering advanced Data Structures & Algorithms.<br><br>
+        ▶️ <b>REPUTATION (EXP):</b><br>
+        &nbsp;&nbsp;&nbsp;1,042,938 Lines of Code Written.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&pause=1000&color=FFD700&center=true&vCenter=true&width=400&height=30&lines=CHOOSE+YOUR+ACTION:" alt="Action" />
+  <br><br>
+  
+  <a href="https://linkedin.com/in/atharv-hatwar"><img src="https://img.shields.io/badge/▶_RECRUIT_PARTY_MEMBER-(LINKEDIN)-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700&color=000000&labelColor=000000" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:atharvhatwar02@gmail.com"><img src="https://img.shields.io/badge/▶_SEND_MESSAGE-(EMAIL)-000000?style=for-the-badge&logo=gmail&logoColor=FFD700&color=000000&labelColor=000000" alt="Email"/></a>
+  
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=60&text=GAME%20SAVED.&fontColor=FFD700&fontSize=14&fontAlignY=50" width="100%" alt="Footer"/>
 </div>
